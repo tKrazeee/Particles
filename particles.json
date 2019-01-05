@@ -1,7 +1,7 @@
 {
   "particles": {
     "number": {
-      "value":750
+      "value":200
     },
     "color": {
       "value": "#ff1e1e"
@@ -59,7 +59,7 @@
         "speed": 100
       },
       "repulse": {
-        "distance": 75,
+        "distance": 200,
         "duration": 0.1
       },
       "push": {
